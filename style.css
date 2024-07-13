@@ -1,0 +1,64 @@
+
+body{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+    
+   
+}
+.red{
+    background-color: red;
+    height:200px;
+    width:200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 5px;
+    
+}
+.red:hover{
+    box-shadow: 2px 2px 10px black;
+}
+.blue{
+    background-color: blue;
+    height:200px;
+    width:200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 5px;
+}
+.blue:hover{
+    box-shadow: 2px 2px 10px black;
+}
+.green{
+    background-color: green;
+    height:200px;
+    width:200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 5px;
+
+}
+.green:hover{
+    box-shadow: 2px 2px 10px black;
+}
+.yellow{
+    background-color: yellow;
+    height:200px;
+    width:200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 5px;
+}
+.yellow:hover{
+    box-shadow: 2px 2px 10px black;
+}
+
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color:black;
+}
